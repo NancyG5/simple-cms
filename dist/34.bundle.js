@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktask=self.webpackChunktask||[]).push([[34],{34:function(e,t,n){n.r(t);var u=n(294);t.default=function(e){var t=e.content;return u.createElement("div",null,t)}}}]);

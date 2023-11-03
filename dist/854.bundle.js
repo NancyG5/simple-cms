@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktask=self.webpackChunktask||[]).push([[854],{854:function(e,t,a){a.r(t);var s=a(294);t.default=function(){return s.createElement("div",{className:"some-chart"},"Some chart")}}}]);
