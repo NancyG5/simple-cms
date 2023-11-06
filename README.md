@@ -1,3 +1,9 @@
+# Getting Started with Webpack
+
+### `npx webpack serve`
+
+The project will open automatically in the browser in development mode. It will be available at http://localhost:8080.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
