@@ -6,6 +6,12 @@ body {
     overflow: hidden;
 }
 
+.app-load {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
 h1 {
     color: #067d7d;
 }

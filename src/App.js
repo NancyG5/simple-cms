@@ -28,7 +28,7 @@ const App = () => {
         </ul>
         </div>
         <div className='app-content'>
-        <Suspense fallback={<div>Loading...</div>}>
+        <Suspense fallback={<div className='app-load'>Loading...</div>}>
           <Routes>
             {data.map((tab) => {
               const TabComponent = React.lazy(() => import(`${tab.path}`));
